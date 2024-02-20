@@ -24,3 +24,4 @@ tasks:
     - reports/junit: test-reports/*.xml
     - reports/html: 
         dir: htmlcov  
+ 
